@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1648481660 source:c:\users\soumya\desktop\finalproject\main.c
+	<stdio.h>
+
+1646481814 c:\users\soumya\desktop\finalproject\strings.h
+
+1646481814 c:\users\soumya\desktop\finalproject\operaters.h
+
+1646481358 c:\users\soumya\desktop\finalproject\operatersheader.h
+
+1646481814 c:\users\soumya\desktop\finalproject\mother.h
+
+1646481814 c:\users\soumya\desktop\finalproject\loops.h
+
+1646481358 c:\users\soumya\desktop\finalproject\loopsheader.h
+
+1646481814 c:\users\soumya\desktop\finalproject\cstatements.h
+
+1646481358 c:\users\soumya\desktop\finalproject\cstatementsheader.h
+
+1646481998 c:\users\soumya\desktop\finalproject\someproblems.h
+
+1646481989 c:\users\soumya\desktop\finalproject\someproblemsheader.h
+
+1709011300 source:c:\users\soumya\onedrive\desktop\finalproject\main.c
+	<stdio.h>
+
